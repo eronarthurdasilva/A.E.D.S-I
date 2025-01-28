@@ -1,6 +1,6 @@
 # Algoritmos e Estrutura de Dados 1
 
-Ola, se você se interessou por esse assunto este repositório é uma compilação dos meus estudos em Algoritmos e Estrutura de Dados 1, parte fundamental do meu curso de Engenharia da Computação, onde eu aprendi alguns conceitos de estrura de dados e como posso aplicalos em algoritmos. As linguagens utilizadas nesse repositório e c++ e também o java. Espero que gostem, e se precisar de uma ajuda para entender algo e so entrar em contato.
+Ola, se você se interessou por esse assunto este repositório é uma compilação dos meus estudos em Algoritmos e Estrutura de Dados 1, parte fundamental do meu curso de Engenharia da Computação, onde eu aprendi alguns conceitos de estrura de dados e como posso aplicalos em algoritmos. As linguagem utilizadas nesse repositório e o java. Espero que gostem, e se precisar de uma ajuda para entender algo e so entrar em contato.
 
 ## Conteúdo
 
